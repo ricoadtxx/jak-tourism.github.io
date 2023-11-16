@@ -4,14 +4,14 @@ module.exports = {
 	theme: {
 		extend: {
 			backgroundImage: {
-				home: "url('img/home.png')",
-				home_mobile: "url('img/home-mobile.png')",
-				home_tablet: "url('img/home-md.png')",
-				about: "url('img/2.svg')",
-				jakarta: "url('img/jakarta1.jpg')",
-				jakarta1: "url('img/bg-jakarta.jpg')",
-				logo: "url('img/logo2.png')",
-				jakarta_mobile: "url('img/bg-jakarta-phone.jpg')",
+				home: "url('/img/home.png')",
+				home_mobile: "url('/img/home-mobile.png')",
+				home_tablet: "url('/img/home-md.png')",
+				about: "url('/img/2.svg')",
+				jakarta: "url('/img/jakarta1.jpg')",
+				jakarta1: "url('/img/bg-jakarta.jpg')",
+				logo: "url('/img/logo2.png')",
+				jakarta_mobile: "url('/img/bg-jakarta-phone.jpg')",
 			},
 			animation: {
 				// Bounces 5 times 1s equals 5 seconds
